@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:/zhangxu 学业/孙今达北理工文献爬虫/dissertation/dissertation/.idea/dissertation.iml" filepath="E:/zhangxu 学业/孙今达北理工文献爬虫/dissertation/dissertation/.idea/dissertation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../littlecase/.idea/littlecase.iml" filepath="$PROJECT_DIR$/../littlecase/.idea/littlecase.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dblpxmlparse/.idea/python_workspacke.iml" filepath="$PROJECT_DIR$/../dblpxmlparse/.idea/python_workspacke.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/screescrap.iml" filepath="$PROJECT_DIR$/.idea/screescrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Homework/.idea/test.iml" filepath="$PROJECT_DIR$/../Homework/.idea/test.iml" />
+      <module fileurl="file://E:/zhangxu 学业/课程&amp;作业/大数据/水浒传/.idea/水浒传.iml" filepath="E:/zhangxu 学业/课程&amp;作业/大数据/水浒传/.idea/水浒传.iml" />
     </modules>
   </component>
 </project>
